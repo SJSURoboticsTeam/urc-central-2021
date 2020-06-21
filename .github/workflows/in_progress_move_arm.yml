@@ -1,0 +1,18 @@
+name: Move issues to `In progress` Column for Arm 
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  issues:
+    types: [ milestoned ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  automate-project-columns:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: alex-page/github-project-automation-plus@v0.2.4
+        with:
+          project: Arm
+          column: In progress
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
