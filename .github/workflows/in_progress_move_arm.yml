@@ -1,4 +1,4 @@
-name: Move issues to `In progress` Column for Arm 
+name: Move issues to `In progress` Column for Arm
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -13,6 +13,5 @@ jobs:
     steps:
       - uses: alex-page/github-project-automation-plus@v0.2.4
         with:
-          project: Arm
           column: In progress
           repo-token: ${{ secrets.GH_TOKEN }}
