@@ -15,4 +15,4 @@ jobs:
         with:
           project: Arm
           column: In progress
-          repo-token: ${{ secrets.SJSURobotics_Central_Automation }}
+          repo-token: ${{ secrets.GH_TOKEN }}
