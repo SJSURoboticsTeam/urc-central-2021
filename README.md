@@ -1,7 +1,9 @@
 # urc-central-2021
-Main repo to track progress and all information for the URC 2021 competition for [SJSU Robotics](https://github.com/SJSURoboticsTeam).
+Main repo to track progress and all information for the URC 2021 competition for SJSU Robotics.
 <br />
-[Leads](https://docs.google.com/presentation/d/1s-Qgfs6sdip36D7jrmv8OEf0aU_OwsSCoxct0UsKlas/edit#slide=id.g80a8048a34_6_5)
+[Robotics Google Drive](https://drive.google.com/drive/u/1/folders/0AMkfCPdUQjAtUk9PVA)  
+[Leads](https://docs.google.com/presentation/d/1s-Qgfs6sdip36D7jrmv8OEf0aU_OwsSCoxct0UsKlas/edit#slide=id.g80a8048a34_6_5)  
+
 ### Division Documentation
 [Science]()  
 [Electrical]()  
